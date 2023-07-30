@@ -1,6 +1,6 @@
 import streamlit
 streamlit.title('My Parents New Healty Diner')
 streamlit.header('Breakfast Menu')
-streamlit.text('Idli & Dosa')
-streamlit.text ('Vada, Poori, Chapathi')
-streamlit.text('Pani poori vada paav sandwich')
+streamlit.text('1. Idli, Dosa')
+streamlit.text ('2. Vada, Poori, Chapathi')
+streamlit.text('3. Panipoori, vadapaav, sandwich')
